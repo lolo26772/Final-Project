@@ -1,7 +1,5 @@
 # Final-Project
 
-https://wcet.waketech.edu/ypchingombe/WEB115/M15%20Final%20Project.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
